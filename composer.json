@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.3.3",
         "doctrine/doctrine-bundle": "~1.2",
-        "phpinheiros/infrastructure-doctrine": "v1.0"
+        "phpinheiros/infrastructure": "v1.0"
     },
     "require-dev": {},
     "autoload": {
