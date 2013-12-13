@@ -20,7 +20,7 @@
     "target-dir": "Phpinheiros/Infrastructure/Doctrine",
     "extra": {
         "branch-alias": {
-            "master": "1.0.x-dev"
+            "dev-master": "1.0.x-dev"
         }
     }
 }
