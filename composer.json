@@ -1,0 +1,26 @@
+{
+    "name": "phpinheiros/infrastructure-doctrine",
+    "type": "library",
+    "description": "Infrastructure with doctrine",
+    "keywords": ["phpinheiros", "infrastructure", "doctrine"],
+    "homepage": "https://github.com/phpinheiros/",
+    "license": "MIT",
+    "authors": [
+        {"name": "Vinicius de Sa", "email": "viniciusss@me.com"}
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "doctrine/doctrine-bundle": "~1.2",
+        "phpinheiros/infrastructure-doctrine": "v1.0"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-0": { "Phpinheiros\\Infrastructure\\Doctrine\\": "" }
+    },
+    "target-dir": "Phpinheiros/Infrastructure/Doctrine",
+    "extra": {
+        "branch-alias": {
+            "master": "1.0.x-dev"
+        }
+    }
+}
